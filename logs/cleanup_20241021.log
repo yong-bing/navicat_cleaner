@@ -1,0 +1,63 @@
+Started registry cleanup at 2024/10/21 周一 11:29:55.85 
+Cleaning Update registry key... 
+操作成功完成。
+Cleaning Registration keys... 
+Deleting: HKEY_CURRENT_USER\Software\PremiumSoft\NavicatPremium\Registration17XCS 
+操作成功完成。
+Cleaning CLSID entries... 
+Deleting CLSID: HKEY_CURRENT_USER\Software\Classes\CLSID\{0F69347D-143B-B1F0-0782-CF9B6715CA4E} 
+操作成功完成。
+Deleting CLSID: HKEY_CURRENT_USER\Software\Classes\CLSID\{ADBB59EB-C894-EFA7-72AB-573B15DC7DC6} 
+操作成功完成。
+Cleaning old logs... 
+错误: 用指定的搜索标准没有找到文件。
+Completed registry cleanup at 2024/10/21 周一 11:29:57.66 
+ 
+========================================== 
+Started registry cleanup at 2024/10/21 周一 11:34:17.13 
+Cleaning Update registry key... 
+错误: 系统找不到指定的注册表项或值。
+Cleaning Registration keys... 
+Deleting: HKEY_CURRENT_USER\Software\PremiumSoft\NavicatPremium\Registration17XCS 
+操作成功完成。
+Cleaning CLSID entries... 
+ 
+Checking for old logs to clean... 
+Old logs cleaned successfully 
+ 
+Completed registry cleanup at 2024/10/21 周一 11:34:18.83 
+========================================== 
+ 
+========================================== 
+Started registry cleanup at 2024/10/21 周一 11:34:59.92 
+Cleaning Update registry key... 
+操作成功完成。
+Cleaning Registration keys... 
+Deleting: HKEY_CURRENT_USER\Software\PremiumSoft\NavicatPremium\Registration17XCS 
+操作成功完成。
+Cleaning CLSID entries... 
+Deleting CLSID: HKEY_CURRENT_USER\Software\Classes\CLSID\{0F69347D-143B-B1F0-0782-CF9B6715CBDB} 
+操作成功完成。
+Deleting CLSID: HKEY_CURRENT_USER\Software\Classes\CLSID\{ADBB59EB-C894-EFA7-72AB-573B15DC7DC6} 
+操作成功完成。
+ 
+Checking for old logs to clean... 
+Old logs cleaned successfully 
+ 
+Completed registry cleanup at 2024/10/21 周一 11:35:01.82 
+========================================== 
+ 
+========================================== 
+Started registry cleanup at 2024/10/21 周一 11:37:12.52 
+Cleaning Update registry key... 
+错误: 系统找不到指定的注册表项或值。
+Cleaning Registration keys... 
+Deleting: HKEY_CURRENT_USER\Software\PremiumSoft\NavicatPremium\Registration17XCS 
+操作成功完成。
+Cleaning CLSID entries... 
+ 
+Checking for old logs to clean... 
+Old logs cleaned successfully 
+ 
+Completed registry cleanup at 2024/10/21 周一 11:37:14.22 
+========================================== 
